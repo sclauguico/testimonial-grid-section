@@ -29,10 +29,10 @@ body {
 }
 
 .container {
-  margin: 6rem auto;
+  margin: 15rem auto;
   display: flex;
   flex-direction: column;
-  gap: 10rem;
+  gap: 20rem;
   align-items: center;
 }
 
