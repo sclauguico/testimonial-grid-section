@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Testimonial Grid Solution] https://github.com/sclauguico/testimonial-grid-section
-- Live Site URL: [Live Project Page] https://sclauguico.github.io/testimonial-grid-section/
+- Solution URL: [Testimonial Grid Solution] (https://github.com/sclauguico/testimonial-grid-section)
+- Live Site URL: [Live Project Page] (https://sclauguico.github.io/testimonial-grid-section/)
 
 ## My process
 1. Design was first carefully analyzed with the desktop view
