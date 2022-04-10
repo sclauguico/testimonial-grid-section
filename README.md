@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Stats Preview Card Component Solution](https://github.com/sclauguico/stats-preview-card)
-- Live Site URL: [Live Project Page](https://sclauguico.github.io/stats-preview-card/)
+- Solution URL: https://github.com/sclauguico/testimonial-grid-section
+- Live Site URL: https://sclauguico.github.io/testimonial-grid-section/
 
 ## My process
 1. Design was first carefully analyzed with the desktop view
@@ -46,7 +46,7 @@ Users should be able to:
 
 
 ### Continued development
-As I have carefully practiced CSS Flexbox in this challenge, I plan on practicing CSS Grid next.
+As I have carefully practiced CSS Grid in this challenge, I plan on practicing making my web page more responsive next.
 
 ## Author
 
